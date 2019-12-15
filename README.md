@@ -5,3 +5,9 @@ Wordpress oder django....
 
 <https://github.com/fgarciachipi/wordpress-xdebug>
 
+Packages
+
+    pacman -S php
+
+    pamac install php-codesniffer-wordpress
+
